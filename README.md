@@ -1,5 +1,3 @@
-## Olá, mundo!
-
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Java**: Experiência em desenvolvimento de servidores privados para RuneScape
@@ -13,7 +11,6 @@
 - **Frontend**:
   - **React.js** com **TypeScript** e **TailwindCSS**
  
-## 🚀 Projetos
 
 <!--
 **victorbesseler1/victorbesseler1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
